@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohan Chandele
 - A passionate Front-End Developer from India
-- 🌱 I’m currently learning Node.JS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me rohanchandele2044@gmail.com
